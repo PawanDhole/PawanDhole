@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Pawan Dhole
 
-<!--
-**PawanDhole/PawanDhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Java Full Stack Developer (Fresher)
 
-Here are some ideas to get you started:
+🎓 BCA Graduate  
+💻 Skills: Java, Spring Boot, Hibernate, JDBC, MySQL, HTML, CSS, JavaScript  
+📍 India  
+📧 Open to job & internship opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- **Online Banking System**
+  - Admin & Customer modules
+  - Account creation, deposit, withdraw, balance check
+  - Java + JDBC + MySQL
+
+- **Portfolio Website**
+  - Responsive personal portfolio
+  - HTML, CSS, JavaScript
+
+- **Java Mini Projects**
+  - Ball Breaking Game
+  - Speaking Clock
+
+## 📈 Currently Learning
+- Spring Boot REST APIs
+- React.js
+- Git & GitHub best practices
